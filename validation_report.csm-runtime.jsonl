@@ -1,0 +1,12 @@
+{"issues": [], "path": "data/revised/csm/task_20251205_153330_906_a8eea1c0_8c7a6205.json", "status": "validated", "task_id": "task_20251205_153330_906_a8eea1c0_8c7a6205"}
+{"issues": [], "path": "data/revised/csm/task_20251205_154853_044_d4a463c3_fce76046.json", "status": "validated", "task_id": "task_20251205_154853_044_d4a463c3_fce76046"}
+{"issues": [{"detail": "Domain Wise DBs and Task-DB Mappings/csm/dbs/db_1765219280033_d7pqrz32b.sql", "kind": "invalid_seed"}], "path": "data/revised/csm/task_20251209_132736_542_99ba2325_6705caf4.json", "status": "failed", "task_id": "task_20251209_132736_542_99ba2325_6705caf4"}
+{"issues": [], "path": "data/revised/csm/task_20251210_002938_761_897c3e0b_f075229a.json", "status": "validated", "task_id": "task_20251210_002938_761_897c3e0b_f075229a"}
+{"issues": [], "path": "data/revised/csm/task_20251210_113549_827_d4a463c3_47b48a98.json", "status": "validated", "task_id": "task_20251210_113549_827_d4a463c3_47b48a98"}
+{"issues": [], "path": "data/revised/csm/task_20251231_162628_797_a8eea1c0_0a53db6c.json", "status": "validated", "task_id": "task_20251231_162628_797_a8eea1c0_0a53db6c"}
+{"issues": [], "path": "data/revised/csm/task_20260101_043715_660_a8eea1c0_7304e48e.json", "status": "validated", "task_id": "task_20260101_043715_660_a8eea1c0_7304e48e"}
+{"issues": [], "path": "data/revised/csm/task_20260101_122222_300_ad5a67e3_3757206c.json", "status": "validated", "task_id": "task_20260101_122222_300_ad5a67e3_3757206c"}
+{"issues": [], "path": "data/revised/csm/task_20260102_155148_014_accab84d_910b176a.json", "status": "validated", "task_id": "task_20260102_155148_014_accab84d_910b176a"}
+{"issues": [], "path": "data/revised/csm/task_20260102_161510_799_ad5a67e3_7221f3c8.json", "status": "validated", "task_id": "task_20260102_161510_799_ad5a67e3_7221f3c8"}
+{"issues": [], "path": "data/revised/csm/task_20260102_172945_725_ad5a67e3_5480e26f.json", "status": "validated", "task_id": "task_20260102_172945_725_ad5a67e3_5480e26f"}
+{"issues": [], "path": "data/revised/csm/task_20260104_202644_765_00364ece_a86667c0.json", "status": "validated", "task_id": "task_20260104_202644_765_00364ece_a86667c0"}

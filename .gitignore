@@ -11,3 +11,4 @@ __pycache__/
 # .env contains cloud credentials (AWS, GCP) — never commit
 .env
 uv.lock
+EnterpriseOps_Gym.egg-info/
